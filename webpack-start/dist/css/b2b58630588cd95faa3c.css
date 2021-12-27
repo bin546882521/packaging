@@ -1,0 +1,15 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/less-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/pages/Home.vue?vue&type=style&index=0&id=5a90ec03&lang=less&scoped=true& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/[data-v-5a90ec03]{list-style:none;margin:0;padding:0}h1[data-v-5a90ec03]{color:red}span[data-v-5a90ec03]{color:#4caf50}.allcover[data-v-5a90ec03]{position:absolute;right:0;top:0}.center[data-v-5a90ec03]{left:50%;position:absolute;top:50%;transform:translate(-50%,-50%)}
+
+/*!************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styless/base.css ***!
+  \************************************************************************/body,html{-webkit-tap-highlight-color:rgba(0,0,0,0)}input{-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-appearance:none}button,input,textarea{border:none;outline:none}a{color:#333;text-decoration:none}li{list-style-type:none}body.dialog-open{position:fixed;width:100%}.page{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0 50px;width:100%}
+
+/*!************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styless/test.css ***!
+  \************************************************************************/body{background:#eee;color:red}
+
+/*!******************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/less-loader/dist/cjs.js!./src/styless/common.less ***!
+  \******************************************************************************************************************/*{list-style:none;margin:0;padding:0}h1{color:red}
